@@ -214,6 +214,9 @@ tempCodeRunnerFile.py
 # Marimo
 marimo/_static/
 marimo/_lsp/
+# Project data (large/generated files stay out of Git)
+data/*
+!data/.gitkeep
 __marimo__/
 
 # Streamlit
